@@ -1,4 +1,4 @@
-# @DiscordFactory/Hook
+# @DiscordFactory/colorize
 
 ## License
 
