@@ -2,7 +2,7 @@
   "name": "@discord-factory/colorize",
   "version": "0.1.4",
   "description": "",
-  "main": "index.js",
+  "main": "build/index.js",
   "author": "Baptiste Parmantier <baptiste.parmantier.pro@gmail.com>",
   "license": "MIT",
   "repository": "git@github.com:DiscordFactory/colorize.git",
