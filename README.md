@@ -13,7 +13,7 @@ yarn add @discord-factory/colorize
 You can now use it in your embeds as below :
 ```ts
 import Colors from '@discord-facory/colorize'
-import { MessageEmbed } from 'ioc:factory/Discord/Event'
+import { MessageEmbed } from 'discord.js'
 
 const embed = new MessageEmbed({
   description: 'My embed !',
