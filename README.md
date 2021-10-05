@@ -20,6 +20,3 @@ const embed = new MessageEmbed({
   color: Colors.INVISIBLE, 👈 // Please select your prefered color
 })
 ```
-
-## License
-[MIT](./LICENSE) License © 2021 [Baptiste Parmantier](https://github.com/LeadcodeDev)
